@@ -1,5 +1,4 @@
 //= require ./lib/object-assign-pollyfill.js
-//= require ./lib/jquery-1.8.0.min.js
 //= require ./lib/jquery.slideto.min.js
 //= require ./lib/jquery.wiggle.min.js
 //= require ./lib/jquery.ba-bbq.min.js
